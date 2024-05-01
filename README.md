@@ -18,7 +18,7 @@ If you would like to discuss anything with me, or you have any useful advice, yo
 - [LinkTree](https://linktr.ee/contact.abdullah)
 - [X](https://x.com/abdullahs_X)
 - [LinkedIn](https://www.linkedin.com/in/abdull-ah-med)
-- [EMail](https://contactabdullahahmed@gmail.com)
+- contactabdullahahmed@gmail.com
 
 
 <!--

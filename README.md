@@ -15,10 +15,10 @@ I am very intrigued by trading. I also trade cryptocurrencies and keep on learni
 
 ### 📫 How to reach me?
 If you would like to discuss anything with me, or you have any useful advice, you can contact me at, 
-1. [LinkTree](linktr.ee/contact.abdullah)
-2. [X](https://x.com/abdullahs_X)
-3. [LinkedIn](https://www.linkedin.com/in/abdull-ah-med)
-4. [EMail](contactabdullahahmed@gmail.com)
+- [LinkTree](https://linktr.ee/contact.abdullah)
+- [X](https://x.com/abdullahs_X)
+- [LinkedIn](https://www.linkedin.com/in/abdull-ah-med)
+- [EMail](https://contactabdullahahmed@gmail.com)
 
 
 <!--

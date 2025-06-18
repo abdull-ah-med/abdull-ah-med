@@ -15,12 +15,12 @@
 
 
 ### currently
-software engineering intern @ [DirectFN](https://www.directfn.com)  
-mostly building with react.  
-sometimes looking at codebases that run financial systems across pakistan and parts of the gulf.  
+- software engineering intern @ [DirectFN](https://www.directfn.com)  
+- mostly building with react.  
+- sometimes looking at codebases that run financial systems across pakistan and parts of the gulf.  
 
 ### website
-[here](https://abdull-ah-med.xyz/) — portfolio, contact, and other internet things
+- [here](https://abdull-ah-med.xyz/) — portfolio, contact, and other internet things
 
 ### skills? sorta
 - frontend: React, Tailwind

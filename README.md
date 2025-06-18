@@ -40,7 +40,7 @@
 
 
 > “move fast and break things”  
-> – me, after a merge conflict
+> – me, after pushing to main without testing
 
 ---
 

@@ -1,36 +1,47 @@
+<h1 align="center">hey.</h1>
 
-# Hello there! 👋
+<p align="center">
+  i write code sometimes. <br />
+  occasionally it even works.
+</p>
 
-I am Abdullah Ahmed. I consider myself to be smart (or at least a try to be) worker, and I try my best to learn from where I can, whenever I can. I always believe that there is room for improvement in whatever I do, and I try to strive for doing the best I can.
+---
 
-### 🌱 What do I do?
-- ✔️ I am doing Bachelors in Computer Science, from University of Engineering and Technology Lahore. I am currently in 2nd year of my degree program.
+### 🛠 what you’ll find here
+- side projects that started strong and faded
+- experimental stuff with React, JS, and friends
+- things i built just to learn something
 
-- ✔️I'm a fast learner, looking to break into the fields of Cyber Security or FinTech. These two fields have always been my passion, and I hope to make a career in either (both if I am lucky) of them. I am currently working on building my base in Cyber Security, by doing courses and trying to again as much knowledge as I can from people who are already working in this industry.
+### 💼 currently
+software engineering intern @ [DirectFN](https://www.directfn.com)  
+working with React on projects that quietly power parts of finance in Pakistan & the Gulf
 
-- ✔️Also, my interest in FinTech stems from my interest in Accounting / Finance. Finance has always been a point of interest for me. If I was doing computer science, then I would've surely gone into finance side. I still want to give it a shot, and I plan to attempt CFA exams after my Bachelors.
+### 🌐 website
+[abdull-ah-med.xyz](https://abdull-ah-med.xyz/) — portfolio, contact, and other internet things
 
-### 👯 My other interests
-I am very intrigued by trading. I also trade cryptocurrencies and keep on learning and trying to be a better trader.
+### 🧠 skills? sorta
+- frontend: React, Tailwind, a sprinkle of CSS wizardry
+- backend basics: Node, Express, MongoDB
+- version control chaos: `git`
 
-### 📫 How to reach me?
-If you would like to discuss anything with me, or you have any useful advice, you can contact me at, 
-- [LinkTree](https://linktr.ee/contact.abdullah)
-- [X](https://x.com/abdullahs_X)
-- [LinkedIn](https://www.linkedin.com/in/abdull-ah-med)
-- contactabdullahahmed@gmail.com
+### 🧳 other things
+- probably working on something right now  
+- probably not documenting it  
+- pushing straight to `main` like it’s 2010
 
+> “move fast and break things”  
+> – me, after a merge conflict
 
-<!--
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdull-ah-med&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdull-ah-med&theme=radical" alt="GitHub Streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  feel free to look around. or not. it’s chill.
+</p>

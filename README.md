@@ -10,7 +10,7 @@
 ### what you’ll find here
 
 - projects that started with ambition and ended with `// TODO`
-- experiments with react, tailwind, and whatever else seemed interesting that week
+- things i don't remember doing
 - a mix of personal work and stuff built just to learn something
 
 

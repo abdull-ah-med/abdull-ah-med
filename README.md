@@ -8,14 +8,16 @@
 ---
 
 ### what you’ll find here
-- side projects that started strong and faded
-- experimental stuff with React, JS, and idk
-- things i built just to learn something
+
+- projects that started with ambition and ended with `// TODO`
+- experiments with react, tailwind, and whatever else seemed interesting that week
+- a mix of personal work and stuff built just to learn something
+
 
 ### currently
 software engineering intern @ [DirectFN](https://www.directfn.com)  
-working with React on projects that quietly power parts of finance in Pakistan & the Gulf
-i’ve been lucky to peek into some surprisingly sensitive codebases — full apps, internal tools, and databases most folks won’t see.
+mostly building with react.  
+sometimes looking at codebases that run financial systems across pakistan and parts of the gulf.  
 
 ### website
 [here](https://abdull-ah-med.xyz/) — portfolio, contact, and other internet things
@@ -23,18 +25,20 @@ i’ve been lucky to peek into some surprisingly sensitive codebases — full ap
 ### skills? sorta
 - frontend: React, Tailwind
 - backend basics: Node, Express, MongoDB
-- version control chaos: `git`
+- tools: git, vs code, ctrl+z, c, v
 
-### what i'm into lately
+
+
+- ### what i'm into lately
+- building cleaner, faster interfaces with React  
+- building things that feel fast  
+- occasionally poking around backend stuff, just enough to break and fix things
+
+### side notes
 - probably working on something right now  
 - probably not documenting it
 - it's probably not working
 - pushing straight to `main` like it’s 2010
-- 
-- ### what i'm into lately
-- building cleaner, faster interfaces with React  
-- exploring component patterns that don’t lead to chaos
-- occasionally poking around backend stuff, just enough to break and fix things
 
 
 > “move fast and break things”  

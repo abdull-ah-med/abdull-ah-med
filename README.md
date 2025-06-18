@@ -27,9 +27,7 @@
 - backend basics: Node, Express, MongoDB
 - tools: git, vs code, ctrl+z, c, v
 
-
-
-- ### what i'm into lately
+### what i'm into lately
 - building cleaner, faster interfaces with React  
 - building things that feel fast  
 - occasionally poking around backend stuff, just enough to break and fix things

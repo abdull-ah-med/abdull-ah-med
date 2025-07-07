@@ -28,8 +28,7 @@
 - tools: git, vs code, ctrl+z, c, v
 ### what am i building rn:
 - formai: build form from a prompt
-- [test prod](https://p-0.vercel.app) ion like setting up dev environments
-- [prod prod](formai-silk.vercel.app)
+- [test prod](https://formai-frontend-one.vercel.app/) 
 ### what i'm into lately
 - building cleaner, faster interfaces with React  
 - building things that feel fast  

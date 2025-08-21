@@ -18,7 +18,6 @@
 - **Frontend:** React, Next.js, Tailwind CSS, TypeScript, JavaScript  
 - **Backend:** Node.js, Express.js, ASP.NET Core (C#)  
 - **Databases:** PostgreSQL, MongoDB  
-- **Tools:** Git, VS Code, Postman, Agile workflows  
 
 ---
 

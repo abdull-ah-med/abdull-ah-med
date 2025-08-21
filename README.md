@@ -24,7 +24,7 @@
 ### Selected Projects
 - **Formai** — build forms from a natural language prompt  
   - Frontend live at [formai-frontend-one.vercel.app](https://formai-frontend-one.vercel.app)  
-  - Monorepo with backend, frontend, and legacy serverless implementation: [GitHub](https://github.com/abdull-ah-med/Formai)
+  - Monorepo with backend, frontend, and legacy serverless implementation and development history: [Formai Monorepo](https://github.com/abdull-ah-med/Formai)
   - Backend is no longer maintained; only the frontend is live
 
 ---

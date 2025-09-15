@@ -1,43 +1,43 @@
 <h1 align="center">Hi, I’m Abdullah </h1>
 
 <p align="center">
-  Software engineering student & intern, building products that are simple, fast, and reliable.
+  Software engineering student who enjoys building things that are simple, fast, and actually useful.
 </p>
 
 ---
 
 ### About Me
-- Currently a **Software Engineering Intern @ [DirectFN](https://www.directfn.com)**  
-  Working with **React** and **ASP.NET Core**, while gaining exposure to large-scale financial systems used across Pakistan and the Gulf.  
-- Passionate about building **clean, scalable frontend experiences** and exploring backend systems.  
-- Interested in turning ideas into real, usable applications.
+I’m a final-year software engineering student with an interest in both full stack development and machine learning.  
+I recently worked as a Software Engineering Intern at [DirectFN](https://www.directfn.com), where I contributed to financial systems used across Pakistan and the Gulf.  
+
+These days, I’m experimenting with better UI patterns in **React / Next.js** and improving my backend knowledge with **ASP.NET Core** and **PostgreSQL**.  
 
 ---
 
 ### Skills
-- **Frontend:** React, Next.js, Tailwind CSS, TypeScript, JavaScript  
-- **Backend:** Node.js, Express.js, ASP.NET Core (C#)  
+- **Frontend:** React, Next.js, Tailwind CSS, TypeScript  
+- **Backend:** Node.js, Express.js, ASP.NET Core  
 - **Databases:** PostgreSQL, MongoDB  
 
 ---
 
-### Selected Projects
-- **Formai** — build forms from a natural language prompt  
-  - Frontend live at [formai-frontend-one.vercel.app](https://formai-frontend-one.vercel.app)  
-  - Monorepo with backend, frontend, and legacy serverless implementation and development history: [Formai Monorepo](https://github.com/abdull-ah-med/Formai)
-  - Backend is no longer maintained; only the frontend is live
+### Projects
+- **Formai** — create forms from a natural language prompt  
+  - Live: [formai-frontend-one.vercel.app](https://formai-frontend-one.vercel.app)  
+  - Repo: [Formai Monorepo](https://github.com/abdull-ah-med/Formai)  
 
 ---
 
-### What I’m Exploring
-- Building faster and more intuitive interfaces with React & Next.js  
-- Improving backend knowledge and database design with PostgreSQL & ASP.NET Core  
-- Writing cleaner, maintainable code and learning best practices for scaling projects  
+### What’s Next
+- Writing cleaner, more maintainable code  
+- Learning how to scale projects beyond side-project level  
+- Building things that people actually want to use  
 
 ---
 
-### Website
-- [abdull-ah-med.xyz](https://abdull-ah-med.xyz) — portfolio, contact info, and more  
+### Find Me
+- Portfolio: [abdull-ah-med.xyz](https://abdull-ah-med.xyz)  
+- GitHub: [@abdull-ah-med](https://github.com/abdull-ah-med)  
 
 ---
 

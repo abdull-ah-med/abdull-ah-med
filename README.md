@@ -9,7 +9,7 @@
 ### About Me
 I’m a final-year software engineering student with an interest in full stack development and applied machine learning.
 
-I work as an **Associate Software Engineer** at **[Devsinc](https://www.devsinc.com)**, building production features with **JavaScript**, **React**, **Node.js**, and **Express**.
+I work as an **Associate Software Engineer** at **[Devsinc](https://www.devsinc.com)**, building with **JavaScript**, **React**, **Node.js**, and **Express**.
 
 Previously, I was a **Software Engineering Intern** at **[DirectFN](https://www.directfn.com)**, where I contributed to financial systems used across Pakistan and the Gulf.
 

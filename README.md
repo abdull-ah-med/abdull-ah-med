@@ -1,57 +1,102 @@
-<h1 align="center">Hi, I’m Abdullah </h1>
+<h1 align="center">Abdullah Ahmed</h1>
 
 <p align="center">
-  Software engineering student who enjoys building things that are simple, fast, and actually useful.
+  <strong>Software Engineer @ CCRIPT Agency</strong>
+</p>
+
+<p align="center">
+  Full stack systems. Secure auth. Cloud native infra. Production AI agents.
+  <br />
+  I don't ship prototypes. I ship architecture that survives contact with reality.
+</p>
+
+<p align="center">
+  <a href="https://abdullahmed.xyz">Portfolio</a> ·
+  <a href="https://github.com/abdull-ah-med">GitHub</a> ·
+  <a href="https://ccript.com/">CCRIPT Agency</a>
 </p>
 
 ---
 
-### About Me
-I’m a final-year software engineering student with an interest in full stack development and applied machine learning.
+### Who I Am
 
-I work as an **Associate Software Engineer** at **[Devsinc](https://www.devsinc.com)**, building with **JavaScript**, **React**, **Node.js**, and **Express**.
+Software Engineer at **[CRIPT Agency](https://ccript.com/)**. I design and ship end to end product systems: APIs, frontends, auth, workers, retrieval pipelines, and the deployment surface that keeps them alive.
 
-Previously, I was a **Software Engineering Intern** at **[DirectFN](https://www.directfn.com)**, where I contributed to financial systems used across Pakistan and the Gulf.
+Previously Associate Software Engineer at **[Devsinc](https://www.devsinc.com)** (JavaScript, React, Node.js, Express). Before that, Software Engineering Intern at **[DirectFN](https://www.directfn.com)**, contributing to financial systems used across Pakistan and the Gulf.
 
-On my own time, I focus on scalable backends using **Clean Architecture** in **ASP.NET Core**, secure **AuthN/AuthZ**, and **Azure** deployments. I also explore **NLP** and software design—**LLMs**, **vector search**, and **AI agent** patterns.
-
----
-
-### Skills
-- **Frontend:** React, Next.js, Tailwind CSS, TypeScript
-- **Backend:** Node.js, Express, ASP.NET Core (Clean Architecture), C#
-- **Cloud & DevOps:** Azure, GitHub Actions, CI/CD
-- **AI & NLP:** LLM integration, vector search (RAG), Python
-- **Databases:** PostgreSQL, MongoDB, vector databases
+I operate at the layer where product, security, and applied ML collide. Clean Architecture backends. Hardened AuthN/AuthZ. Azure and cloud native delivery. LLM systems with RAG, vector search, and agent orchestration that are actually wired into production workflows.
 
 ---
 
-### Projects
+### Stack I Actually Ship With
 
-- **OneUni**
-  - A scalable full-stack platform built on **Clean Architecture** principles.
-  - Features a robust **ASP.NET Core** backend with custom Google OAuth integration and a **Next.js** frontend, fully deployed on **Azure**.
-  - Repo: [OneUniBackend](https://github.com/abdull-ah-med/OneUniBackend)
-    
-- **Formai** — create forms from a natural language prompt
-  - Live: [formai-frontend-one.vercel.app](https://formai-frontend-one.vercel.app)
-  - Repo: [Formai Monorepo](https://github.com/abdull-ah-med/Formai)
-
----
-
-### What’s Next
-- Deepening knowledge of **design patterns** (Façade, Chain of Responsibility) in AI systems
-- Mastering cloud-native deployment strategies on Azure
-- Building things that people actually want to use
+| Layer | Weapons |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | FastAPI, Node.js, Express, ASP.NET Core (Clean Architecture), C#, Python |
+| **Auth & Security** | JWT access + rotating refresh cookies, CSRF double submit, OAuth, Origin allowlisting, least privilege scopes |
+| **Data** | PostgreSQL, pgvector, MongoDB, Redis (TLS, rate limits, session infra) |
+| **AI / Agents** | Claude / Anthropic, RAG, hybrid retrieval, vector search, agent tooling, feedback / learning loops |
+| **Integrations** | Microsoft Graph, Entra ID / MSAL, Slack |
+| **Cloud & DevOps** | Azure, AWS EC2, Docker Compose, nginx + TLS, GitHub Actions, CI/CD |
 
 ---
 
+### Selected Work
+
+**Inbox Triage Automation**  
+Production read only AI triage agent for shared Outlook mailboxes.
+
+- Microsoft Graph ingest via change notifications + poll fallback
+- Rules + Claude classification, draft generation, multi mailbox review dashboard
+- FastAPI workers, PostgreSQL + pgvector retrieval, Redis, Next.js dashboard
+- Memory only access JWTs, HttpOnly refresh cookies, CSRF on cookie mutating routes
+- Hardened prod posture: TLS Redis, locked down secrets validation, nginx reverse proxy, Dockerized deploy
+
+Human in the loop by design. `Mail.Read` only. The agent never sends mail.
+
+**OneUni**  
+Scalable university platform on Clean Architecture.
+
+- ASP.NET Core backend with custom Google OAuth
+- Next.js frontend
+- Full Azure deployment path
+
+Repo: [OneUniBackend](https://github.com/abdull-ah-med/OneUniBackend)
+
+**Formai**  
+Natural language → structured forms. Prompt in. Production form out.
+
+- Live: [formai-frontend-one.vercel.app](https://formai-frontend-one.vercel.app)
+- Repo: [Formai Monorepo](https://github.com/abdull-ah-med/Formai)
+
+---
+
+### Operating Principles
+
+- Prefer systems over screenshots
+- Security is part of the product, not a checkbox after launch
+- AI without retrieval, eval, and audit trails is just vibes
+- Clean Architecture when the domain deserves it. Not cargo cult.
+- Ship the boring infrastructure that makes the flashy parts reliable
+
+---
+
+### Currently Leveling Up
+
+- Design patterns that earn complexity in AI systems (Façade, Chain of Responsibility, composition heavy agent graphs)
+- Cloud native Azure deployment patterns that scale past "it works on my box"
+- Production RAG and agent loops with feedback that compounds over time
+
+---
 ### Find Me
+
 - Portfolio: [abdullahmed.xyz](https://abdullahmed.xyz)
 - GitHub: [@abdull-ah-med](https://github.com/abdull-ah-med)
+- Agency: [CRIPT](https://www.cript.agency)
 
 ---
 
 <p align="center">
-  Always learning. Always building.
+  <em>Always learning. Always building. Always engineernig the right things.</em>
 </p>

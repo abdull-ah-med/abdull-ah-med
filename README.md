@@ -95,7 +95,8 @@ Natural language → structured forms. Prompt in. Production form out.
 
 - Portfolio: [abdullahmed.xyz](https://abdullahmed.xyz)
 - GitHub: [@abdull-ah-med](https://github.com/abdull-ah-med)
-- Agency: [CRIPT](https://www.cript.agency)
+- LinkedIn: [Abdullah Ahmed](https://www.linkedin.com/in/abdull-ah-med/)
+- Blogs: [For when I do write](https://www.abdullahmed.xyz/blog)
 
 ---
 

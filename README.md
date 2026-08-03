@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://abdullahmed.xyz">Portfolio</a> ·
-  <a href="https://github.com/abdull-ah-med">GitHub</a> ·
+  <a href="https://abdullahmed.xyz">Portfolio</a> -
+  <a href="https://github.com/abdull-ah-med">GitHub</a> -
+  <a href="https://www.linkedin.com/in/abdull-ah-med/">LinkedIn</a> -
   <a href="https://ccript.com/">CCRIPT Agency</a>
 </p>
 

@@ -54,6 +54,7 @@ Production read only AI triage agent for shared Outlook mailboxes.
 - Hardened prod posture: TLS Redis, locked down secrets validation, nginx reverse proxy, Dockerized deploy
 
 Human in the loop by design. `Mail.Read` only. The agent never sends mail.
+
 Repo: [Inbox Automation Agent](https://github.com/abdull-ah-med/inbox_automation_agent)
 
 **OneUni**  

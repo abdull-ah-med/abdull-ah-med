@@ -20,7 +20,7 @@
 
 ### Who I Am
 
-Software Engineer at **[CRIPT Agency](https://ccript.com/)**. I design and ship end to end product systems: APIs, frontends, auth, workers, retrieval pipelines, and the deployment surface that keeps them alive.
+Software Engineer at **[CCRIPT Agency](https://ccript.com/)**. I design and ship end to end product systems: APIs, frontends, auth, workers, retrieval pipelines, and the deployment surface that keeps them alive.
 
 Previously Associate Software Engineer at **[Devsinc](https://www.devsinc.com)** (JavaScript, React, Node.js, Express). Before that, Software Engineering Intern at **[DirectFN](https://www.directfn.com)**, contributing to financial systems used across Pakistan and the Gulf.
 
@@ -44,7 +44,7 @@ I operate at the layer where product, security, and applied ML collide. Clean Ar
 
 ### Selected Work
 
-**Inbox Triage Automation**  
+**Inbox Triage Automation Agent**  
 Production read only AI triage agent for shared Outlook mailboxes.
 
 - Microsoft Graph ingest via change notifications + poll fallback
@@ -54,6 +54,7 @@ Production read only AI triage agent for shared Outlook mailboxes.
 - Hardened prod posture: TLS Redis, locked down secrets validation, nginx reverse proxy, Dockerized deploy
 
 Human in the loop by design. `Mail.Read` only. The agent never sends mail.
+Repo: [Inbox Automation Agent](https://github.com/abdull-ah-med/inbox_automation_agent)
 
 **OneUni**  
 Scalable university platform on Clean Architecture.

@@ -52,15 +52,15 @@ Pins below are the public receipts. Portfolio has the rest: [abdullahmed.xyz](ht
 </p>
 
 <p align="center">
-  <a href="https://www.langchain.com/"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/langchain.svg" width="48" height="48" alt="LangChain" /></a>
-  <a href="https://www.langchain.com/langgraph"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/langgraph.svg" width="48" height="48" alt="LangGraph" /></a>
-  <a href="https://www.anthropic.com/"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/anthropic.svg" width="48" height="48" alt="Anthropic" /></a>
-  <a href="https://openai.com/"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/openai.svg" width="48" height="48" alt="OpenAI" /></a>
-  <a href="https://ollama.com/"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/ollama.svg" width="48" height="48" alt="Ollama" /></a>
-  <a href="https://huggingface.co/"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" /></a>
-  <a href="https://developer.nvidia.com/triton-inference-server"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/nvidia.svg" width="48" height="48" alt="NVIDIA Triton" /></a>
-  <a href="https://github.com/pgvector/pgvector"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/pgvector.svg" width="48" height="48" alt="pgvector" /></a>
-  <a href="https://cloud.google.com/bigquery"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/bigquery.svg" width="48" height="48" alt="BigQuery" /></a>
+  <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/abdull-ah-med/abdull-ah-med/main/icons/langchain.svg" width="48" height="48" alt="LangChain" /></a>
+  <a href="https://www.langchain.com/langgraph"><img src="https://raw.githubusercontent.com/abdull-ah-med/abdull-ah-med/main/icons/langgraph.svg" width="48" height="48" alt="LangGraph" /></a>
+  <a href="https://www.anthropic.com/"><img src="https://raw.githubusercontent.com/abdull-ah-med/abdull-ah-med/main/icons/anthropic.svg" width="48" height="48" alt="Anthropic" /></a>
+  <a href="https://openai.com/"><img src="https://raw.githubusercontent.com/abdull-ah-med/abdull-ah-med/main/icons/openai.svg" width="48" height="48" alt="OpenAI" /></a>
+  <a href="https://ollama.com/"><img src="https://raw.githubusercontent.com/abdull-ah-med/abdull-ah-med/main/icons/ollama.svg" width="48" height="48" alt="Ollama" /></a>
+  <a href="https://huggingface.co/"><img src="https://raw.githubusercontent.com/abdull-ah-med/abdull-ah-med/main/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" /></a>
+  <a href="https://developer.nvidia.com/triton-inference-server"><img src="https://raw.githubusercontent.com/abdull-ah-med/abdull-ah-med/main/icons/nvidia.svg" width="48" height="48" alt="NVIDIA Triton" /></a>
+  <a href="https://github.com/pgvector/pgvector"><img src="https://raw.githubusercontent.com/abdull-ah-med/abdull-ah-med/main/icons/pgvector.svg" width="48" height="48" alt="pgvector" /></a>
+  <a href="https://cloud.google.com/bigquery"><img src="https://raw.githubusercontent.com/abdull-ah-med/abdull-ah-med/main/icons/bigquery.svg" width="48" height="48" alt="BigQuery" /></a>
 </p>
 
 ```text

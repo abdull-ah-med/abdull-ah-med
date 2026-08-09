@@ -66,8 +66,11 @@ Cloud        Azure · AWS · Docker Compose · nginx + TLS · GitHub Actions
 ### Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdull-ah-med&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdull-ah-med&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdull-ah-med&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdull-ah-med&theme=github_dark" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abdull-ah-med&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" />
 </p>
 
 ---

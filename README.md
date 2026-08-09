@@ -58,6 +58,7 @@ Pins below are the public receipts. Portfolio has the rest: [abdullahmed.xyz](ht
 ### Activity
 
 <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdull-ah-med&theme=github_dark" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdull-ah-med&theme=github_dark" alt="Top languages" />
 </p>
 <p align="center">

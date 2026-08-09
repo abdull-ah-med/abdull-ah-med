@@ -2,8 +2,7 @@
 
 # Abdullah Ahmed
 
-**Software Engineer** · Full-stack systems · Production AI · Hardened auth
-
+**Software Engineer** · Agentic AI Workflows and Automations · Full Stack Applications · Applied AI
 I design and ship end-to-end product systems: APIs, frontends, workers, retrieval pipelines, and the infra that keeps them alive.
 Currently at [CCRIPT](https://ccript.com/). Available for select freelance and contract work.
 

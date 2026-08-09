@@ -41,7 +41,6 @@ Automotive / manufacturing tooling plus custom CV inference on NVIDIA Triton, Bi
 **Software Engineer Intern · [DirectFN](https://www.directfn.com)** · 2025  
 Enterprise FinTech (EdaaConnect, Alfalah Investments) on React + ASP.NET across Pakistan and the Gulf.
 
-Pins below are the public receipts. Portfolio has the rest: [abdullahmed.xyz](https://abdullahmed.xyz)
 
 ---
 

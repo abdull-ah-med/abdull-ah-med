@@ -48,20 +48,19 @@ Pins below are the public receipts. Portfolio has the rest: [abdullahmed.xyz](ht
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,dotnet,cs,postgres,mongodb,redis,docker,nginx,azure,aws,gcp,githubactions&perline=9" alt="Core stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,dotnet,cs,postgres,mongodb,redis,docker,nginx,azure,aws,gcp,githubactions,vercel&perline=10" alt="Core stack" />
 </p>
 
 <p align="center">
-  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /></a>
-  <a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" /></a>
-  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" /></a>
-  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
-  <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <a href="https://developer.nvidia.com/triton-inference-server"><img src="https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Triton" /></a>
-  <a href="https://github.com/pgvector/pgvector"><img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" /></a>
-  <a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" /></a>
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+  <a href="https://www.langchain.com/"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/langchain.svg" width="48" height="48" alt="LangChain" /></a>
+  <a href="https://www.langchain.com/langgraph"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/langgraph.svg" width="48" height="48" alt="LangGraph" /></a>
+  <a href="https://www.anthropic.com/"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/anthropic.svg" width="48" height="48" alt="Anthropic" /></a>
+  <a href="https://openai.com/"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/openai.svg" width="48" height="48" alt="OpenAI" /></a>
+  <a href="https://ollama.com/"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/ollama.svg" width="48" height="48" alt="Ollama" /></a>
+  <a href="https://huggingface.co/"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" /></a>
+  <a href="https://developer.nvidia.com/triton-inference-server"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/nvidia.svg" width="48" height="48" alt="NVIDIA Triton" /></a>
+  <a href="https://github.com/pgvector/pgvector"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/pgvector.svg" width="48" height="48" alt="pgvector" /></a>
+  <a href="https://cloud.google.com/bigquery"><img src="https://cdn.jsdelivr.net/gh/abdull-ah-med/abdull-ah-med@main/icons/bigquery.svg" width="48" height="48" alt="BigQuery" /></a>
 </p>
 
 ```text

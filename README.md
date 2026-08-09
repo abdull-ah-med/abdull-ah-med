@@ -47,23 +47,13 @@ Pins below are the public receipts. Portfolio has the rest: [abdullahmed.xyz](ht
 
 ### Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,dotnet,cs,postgres,mongodb,redis,docker,nginx,azure,aws,gcp,githubactions,vercel&perline=10" alt="Core stack" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdull-ah-med/abdull-ah-med/main/icons/ai-stack.svg" alt="AI stack: LangChain, LangGraph, Anthropic, OpenAI, Ollama, Hugging Face, NVIDIA Triton, pgvector, BigQuery" height="48" />
-</p>
-
-```text
-Frontend     TypeScript · React · Next.js · Tailwind
-Backend      FastAPI · Node / Express · ASP.NET Core · C# · Python
-AI           LangChain · LangGraph · Claude / Anthropic · OpenAI · Ollama · Hugging Face · RAG · pgvector · NVIDIA Triton
-Data         PostgreSQL · MongoDB · Redis · BigQuery
-Cloud        Azure · AWS · GCP · Docker Compose · nginx · GitHub Actions · Vercel
-```
-
----
+| Layer | Technologies |
+|---|---|
+| Frontend | TypeScript, React, Next.js, Tailwind |
+| Backend | FastAPI, Node.js / Express, ASP.NET Core, C#, Python |
+| AI | LangChain, LangGraph, Claude / Anthropic, OpenAI, Ollama, Hugging Face, RAG, pgvector, NVIDIA Triton |
+| Data | PostgreSQL, MongoDB, Redis, BigQuery |
+| Cloud & DevOps | Azure, AWS, GCP, Docker Compose, nginx, GitHub Actions, Vercel |
 
 ### Activity
 

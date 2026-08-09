@@ -2,10 +2,9 @@
 
 # Abdullah Ahmed
 
-**Software Engineer** · Agentic AI Workflows and Automations · Full Stack Applications · Applied AI
+**Software Engineer** · Agentic AI · Full-stack · Cloud & DevOps
 
-I design and ship end-to-end product systems: APIs, frontends, workers, retrieval pipelines, and the infra that keeps them alive.
-
+I design and ship end-to-end product systems: APIs, frontends, workers, retrieval pipelines, and the cloud infra that keeps them alive.
 Currently at [CCRIPT](https://ccript.com/). Available for select freelance and contract work.
 
 <br />
@@ -22,10 +21,10 @@ Currently at [CCRIPT](https://ccript.com/). Available for select freelance and c
 
 | For | I deliver |
 |---|---|
-| **Founders & product teams** | Full-stack products from zero to production: Next.js + FastAPI / Node / .NET, auth, data, deploy |
+| **Founders & product teams** | Full-stack products from zero to production: Next.js + FastAPI / Node / .NET, data layer, deploy |
 | **Teams adding AI** | Agents, RAG, classification, and draft systems wired into real workflows (not demos) |
-| **Platforms that need to stay locked down** | JWT + rotating refresh, CSRF, OAuth, least-privilege scopes, hardened Docker / nginx / TLS stacks |
-| **API-heavy products** | Clean Architecture backends, PostgreSQL, Redis, CI/CD on Azure / AWS |
+| **Cloud & DevOps** | Azure / AWS / GCP delivery, Docker Compose, nginx + TLS, CI/CD, production hardening |
+| **API-heavy products** | Clean Architecture backends, PostgreSQL, Redis, GitHub Actions pipelines |
 
 If you need someone who can own the architecture *and* ship the last mile, that's the brief.
 
@@ -34,10 +33,10 @@ If you need someone who can own the architecture *and* ship the last mile, that'
 ### Recent signal
 
 **Software Engineer · [CCRIPT Agency](https://ccript.com/)** · 2026 – Present  
-Production multi-mailbox AI triage on Microsoft Graph: change notifications + poll fallback, Claude classification and drafts, pgvector retrieval, Next.js review dashboard. Auth hardened end-to-end. Read-only by design. Never sends mail.
+Production multi-mailbox AI triage on Microsoft Graph: change notifications + poll fallback, Claude classification and drafts, pgvector retrieval, Next.js review dashboard. Dockerized AWS deploy behind nginx. Read-only by design. Never sends mail.
 
 **Associate Software Engineer · [Devsinc](https://www.devsinc.com)** · 2026  
-Automotive / manufacturing tooling plus custom CV inference on NVIDIA Triton, BigQuery pipelines, React / Next.js surfaces.
+Automotive / manufacturing tooling plus custom CV inference on NVIDIA Triton, BigQuery pipelines, React / Next.js surfaces on Azure.
 
 **Software Engineer Intern · [DirectFN](https://www.directfn.com)** · 2025  
 Enterprise FinTech (EdaaConnect, Alfalah Investments) on React + ASP.NET across Pakistan and the Gulf.
@@ -49,16 +48,28 @@ Pins below are the public receipts. Portfolio has the rest: [abdullahmed.xyz](ht
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,dotnet,cs,postgres,mongodb,redis,docker,azure,aws,githubactions&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,dotnet,cs,postgres,mongodb,redis,docker,nginx,azure,aws,gcp,githubactions&perline=9" alt="Core stack" />
+</p>
+
+<p align="center">
+  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /></a>
+  <a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" /></a>
+  <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" /></a>
+  <a href="https://openai.com/"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
+  <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://developer.nvidia.com/triton-inference-server"><img src="https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Triton" /></a>
+  <a href="https://github.com/pgvector/pgvector"><img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" /></a>
+  <a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" /></a>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
 </p>
 
 ```text
 Frontend     TypeScript · React · Next.js · Tailwind
 Backend      FastAPI · Node / Express · ASP.NET Core · C# · Python
-AI           Claude / Anthropic · RAG · pgvector · agent workflows
-Auth         JWT + rotating refresh · CSRF · OAuth · Origin allowlists
-Data         PostgreSQL · MongoDB · Redis
-Cloud        Azure · AWS · Docker Compose · nginx + TLS · GitHub Actions
+AI           LangChain · LangGraph · Claude / Anthropic · OpenAI · Ollama · Hugging Face · RAG · pgvector · NVIDIA Triton
+Data         PostgreSQL · MongoDB · Redis · BigQuery
+Cloud        Azure · AWS · GCP · Docker Compose · nginx · GitHub Actions · Vercel
 ```
 
 ---

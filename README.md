@@ -9,7 +9,7 @@ Currently at [CCRIPT](https://ccript.com/). Available for select freelance and c
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdullahmed.xyz-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahmed.xyz)
+(https://abdullahmed.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdull--ah--med-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdull-ah-med/)
 [![Email](https://img.shields.io/badge/Email-contactabdullahahmed%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactabdullahahmed@gmail.com)
 
@@ -58,9 +58,6 @@ Enterprise FinTech (EdaaConnect, Alfalah Investments) on React + ASP.NET across 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdull-ah-med&theme=github_dark" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdull-ah-med&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" />
 </p>
 
 ---

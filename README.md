@@ -9,7 +9,7 @@ Currently at [CCRIPT](https://ccript.com/). Available for select freelance and c
 
 <br />
 
-[Website](https://abdullahmed.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdullahmed.xyz-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahmed.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdull--ah--med-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdull-ah-med/)
 [![Email](https://img.shields.io/badge/Email-contactabdullahahmed%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactabdullahahmed@gmail.com)
 

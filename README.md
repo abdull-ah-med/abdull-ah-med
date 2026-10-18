@@ -1,73 +1,32 @@
 <div align="center">
 
-# Abdullah Ahmed
+**Software Engineer  ·  AI Systems  ·  Backend  ·  Cloud**
 
-**Software Engineer** · Agentic AI · Full-stack · Cloud & DevOps
-
-I design and ship end-to-end product systems: APIs, frontends, workers, retrieval pipelines, and the cloud infra that keeps them alive.
-Currently at [CCRIPT](https://ccript.com/). Available for select freelance and contract work.
-
-<br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdullahmed.xyz-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahmed.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdullahmed.xyz-0b0b0a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BCiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMwYjBiMGEiLz4KICA8cGF0aCBmaWxsPSIjZWRlZGVhIiBkPSJNMjYuNzggNDkuNzdRMjAuNzkgNDkuNzcgMTcuMzkgNDYuODZRMTQgNDMuOTUgMTQgMzkuMTZRMTQgMzQuMTQgMTcuNDUgMzEuNFEyMC45IDI4LjY2IDI3LjQxIDI4LjY2SDM3Ljg1VjI3LjI5UTM3Ljg1IDIxLjAyIDMwLjU1IDIxLjAyUTI0LjM4IDIxLjAyIDIzLjA3IDI1LjQ3SDE0LjU3UTE1LjYgMTkuOTkgMTkuNzMgMTcuMTFRMjMuODcgMTQuMjMgMzAuNTUgMTQuMjNRMzguMDggMTQuMjMgNDIuMDEgMTcuNjJRNDUuOTUgMjEuMDIgNDUuOTUgMjcuNTJWNDAuNjRINTBWNDkuMTRINDEuMjdWNDMuNjdIMzguODdRMzcuMTEgNDYuNTggMzQuMTEgNDguMTdRMzEuMTIgNDkuNzcgMjYuNzggNDkuNzdaTTI4LjAzIDQzLjIxUTMwLjgzIDQzLjIxIDMzLjA2IDQyLjE2UTM1LjI4IDQxLjEgMzYuNTYgMzkuM1EzNy44NSAzNy41MSAzNy44NSAzNS4yOFYzNC40OEgyNy44NlEyMi4xIDM0LjQ4IDIyLjEgMzguNzZRMjIuMSA0MC44NyAyMy42NyA0Mi4wNFEyNS4yNCA0My4yMSAyOC4wMyA0My4yMVoiLz4KPC9zdmc%2BCg%3D%3D)](https://abdullahmed.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdull--ah--med-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdull-ah-med/)
-[![Email](https://img.shields.io/badge/Email-contactabdullahahmed%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactabdullahahmed@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactabdullahahmed@gmail.com)
 
 </div>
 
----
+## About
 
-### What I take on
+I'm a software engineer who builds complete products, from the first schema to the production deploy. A lot of my recent work is AI that lives inside real workflows: support assistants, email triage, document extraction.
 
-| For | I deliver |
-|---|---|
-| **Founders & product teams** | Full-stack products from zero to production: Next.js + FastAPI / Node / .NET, data layer, deploy |
-| **Teams adding AI** | Agents, RAG, classification, and draft systems wired into real workflows (not demos) |
-| **Cloud & DevOps** | Azure / AWS / GCP delivery, Docker Compose, nginx + TLS, CI/CD, production hardening |
-| **API-heavy products** | Clean Architecture backends, PostgreSQL, Redis, GitHub Actions pipelines |
+- Backends with live updates, proper auth and sensible security
+- AI features that plug into the tools people already use
+- Containerised deployments that are easy to hand over and trust
+- Available for freelance, contract and full-time roles
 
-If you need someone who can own the architecture *and* ship the last mile, that's the brief.
+## Tech
 
----
+<img src="assets/frontend.svg" alt="Frontend" />
 
-### Recent signal
+<img src="assets/backend.svg" alt="Backend" />
 
-**Software Engineer · [CCRIPT Agency](https://ccript.com/)** · 2026 – Present  
-Production multi-mailbox AI triage on Microsoft Graph: change notifications + poll fallback, Claude classification and drafts, pgvector retrieval, Next.js review dashboard. Dockerized AWS deploy behind nginx. Read-only by design. Never sends mail.
+<img src="assets/database.svg" alt="Database" />
 
-**Associate Software Engineer · [Devsinc](https://www.devsinc.com)** · 2026  
-Automotive / manufacturing tooling plus custom CV inference on NVIDIA Triton, BigQuery pipelines, React / Next.js surfaces on Azure.
+<img src="assets/ai.svg" alt="AI" />
 
-**Software Engineer Intern · [DirectFN](https://www.directfn.com)** · 2025  
-Enterprise FinTech (EdaaConnect, Alfalah Investments) on React + ASP.NET across Pakistan and the Gulf.
+<img src="assets/devops.svg" alt="DevOps" />
 
-
----
-
-### Stack
-
-| Layer | Technologies |
-|---|---|
-| Frontend | TypeScript, React, Next.js, Tailwind |
-| Backend | FastAPI, Node.js / Express, ASP.NET Core, C#, Python |
-| AI | LangChain, LangGraph, Claude / Anthropic, OpenAI, Ollama, Hugging Face, RAG, pgvector, NVIDIA Triton |
-| Data | PostgreSQL, MongoDB, Redis, BigQuery |
-| Cloud & DevOps | Azure, AWS, GCP, Docker Compose, nginx, GitHub Actions, Vercel |
-
-### Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdull-ah-med&theme=github_dark" alt="Top languages" />
-</p>
-
----
-
-<div align="center">
-
-### Let's talk
-
-Open to **freelance / contract builds**, technical partnerships, and full-time roles where ownership matters.
-
-**[abdullahmed.xyz](https://abdullahmed.xyz)** · **[LinkedIn](https://www.linkedin.com/in/abdull-ah-med/)** · **[contactabdullahahmed@gmail.com](mailto:contactabdullahahmed@gmail.com)**
-
-</div>
+<img src="assets/tools.svg" alt="Coding tools" />

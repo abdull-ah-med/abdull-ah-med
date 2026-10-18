@@ -19,14 +19,15 @@ I'm a software engineer who builds complete products, from the first schema to t
 
 ## Tech
 
-<img src="assets/frontend.svg" alt="Frontend" />
-
-<img src="assets/backend.svg" alt="Backend" />
-
-<img src="assets/database.svg" alt="Database" />
-
-<img src="assets/ai.svg" alt="AI" />
-
-<img src="assets/devops.svg" alt="DevOps" />
-
-<img src="assets/tools.svg" alt="Coding tools" />
+| Area | What I use |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, C#, SQL |
+| **Frontend** | React, Next.js, Tailwind CSS, Vite |
+| **Backend** | FastAPI, Node.js, Express, ASP.NET Core (.NET), REST, WebSockets, Pydantic, Zod, SQLAlchemy |
+| **Auth & security** | JWT with refresh rotation, OAuth 2.0, CSRF protection, RBAC, rate limiting, AES-256 encryption, SSRF hardening |
+| **Databases** | PostgreSQL, pgvector, Redis (pub/sub), MongoDB, BigQuery, Alembic |
+| **AI** | Claude (Anthropic), OpenAI, LangChain, LangGraph, Ollama, Hugging Face, NVIDIA Triton, RAG, embeddings, hybrid search |
+| **Integrations** | Microsoft Graph, Google OAuth, Google Forms API, Azure Service Bus, Azure Blob Storage |
+| **Cloud** | Azure, AWS (EC2), GCP, Vercel |
+| **DevOps** | Docker, Docker Compose, nginx, TLS, GitHub Actions, CI/CD |
+| **Coding tools** | Claude Code, VS Code, Git, GitHub |
